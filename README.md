@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Qudsia Sultana</h1>
+<h1 align="center"> Qudsia Sultana</h1>
 
 I'm a third-year college student diving into the exciting world of Computer Engineering. My passion lies at the intersection of data science and web development, where I explore the endless possibilities of turning raw data into meaningful insights and crafting seamless web experiences. This GitHub repository showcases my journey, featuring projects that reflect my dedication to mastering the technical aspects of both fields. Join me on this coding adventure as I navigate the challenges and innovations of the ever-evolving tech landscape. Let's build, learn, and create together! 🚀 #CodeExplorer #DataEnthusiast 
 
