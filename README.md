@@ -1,10 +1,10 @@
-<h1> Qudsia Sultana</h1>
+# Qudsia Sultana
 
 I'm a third-year college student diving into the exciting world of Computer Engineering. My passion lies at the intersection of data science and web development, where I explore the endless possibilities of turning raw data into meaningful insights and crafting seamless web experiences. I am also very excited to learn about robotics, automation, and software development which will allow me to develop custom software and robotic systems. This GitHub repository showcases my journey, featuring projects that reflect my dedication to mastering the technical aspects of both fields. Join me on this coding adventure as I navigate the challenges and innovations of the ever-evolving tech landscape. Let's build, learn, and create together! 🚀 #CodeExplorer 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qudsiasultana&hide_progress=true)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/qudsia-sultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/qudsia-sultana" height="30" width="40" /></a>
 </p>
